@@ -39,7 +39,7 @@ lib/
  └── main.dart
 
 🛠️ Setup & Installation
-git clone https://github.com/your-username/tune.git
+git clone (https://github.com/shaikmaviya/Tune.git)
 cd tune
 flutter pub get
 flutter run
