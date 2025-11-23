@@ -46,9 +46,6 @@ flutter run
 
 📸 Screenshots
 
-(Add your app scre![WhatsApp Image 2025-11-23 at 17 00 56_83d0a178](https://github.com/user-attachments/assets/06154c5a-8a0a-43dc-8743-5f8d1aa5f440)
-enshots here)
-
 🗂️ APK / Release
 
 (Upload your release APK in GitHub Releases and link it here.)
